@@ -1,0 +1,17 @@
+.winning-combinaion-container {
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.winning-combinaion-item {
+	height: 20px;
+	width: 97px;
+	border: 1px black solid;
+	margin: 5px;
+	border-radius: 20px;
+	background-color: green;
+	color: white;
+	font-weight: bold;
+}
